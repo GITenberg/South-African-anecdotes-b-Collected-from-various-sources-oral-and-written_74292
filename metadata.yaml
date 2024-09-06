@@ -1,0 +1,29 @@
+_repo: South-African-anecdotes-b-Collected-from-various-sources-oral-and-written_74292
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Ellman, A.
+    gutenberg_agent_id: '57425'
+    url: http://www.gutenberg.org/2009/agents/57425
+description: ''
+gutenberg_issued: '2024-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74292'
+language: en
+pgterms:marc905: 20240714080802ellman
+pgterms:marc906: '1914'
+pgterms:marc907: ZA
+production_note: Karin Spence and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aJohannesburg :$bTransvaal Leader, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Humor'
+- !lcc 'DT'
+- !lcc 'PN'
+- GITenberg
+title: 'South African anecdotes : $b Collected from various sources, oral and written'
+url: http://www.gutenberg.org/ebooks/74292
