@@ -5,7 +5,12 @@ contributor:
     agent_name: Ellman, A.
     gutenberg_agent_id: '57425'
     url: http://www.gutenberg.org/2009/agents/57425
+covers:
+- cover_type: archival
+  image_path: 74292-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74292#South-African-anecdotes-b-Collected-from-various-sources-oral-and-written
 gutenberg_issued: '2024-08-22'
 gutenberg_type: Text
 identifiers:
